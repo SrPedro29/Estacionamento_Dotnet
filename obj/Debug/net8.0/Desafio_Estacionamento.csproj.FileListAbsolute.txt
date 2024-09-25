@@ -1,0 +1,14 @@
+C:\Users\pedro\Documents\Programação\FullStack - DIO\.NET\Desafio_Estacionamento\bin\Debug\net8.0\Desafio_Estacionamento.exe
+C:\Users\pedro\Documents\Programação\FullStack - DIO\.NET\Desafio_Estacionamento\bin\Debug\net8.0\Desafio_Estacionamento.deps.json
+C:\Users\pedro\Documents\Programação\FullStack - DIO\.NET\Desafio_Estacionamento\bin\Debug\net8.0\Desafio_Estacionamento.runtimeconfig.json
+C:\Users\pedro\Documents\Programação\FullStack - DIO\.NET\Desafio_Estacionamento\bin\Debug\net8.0\Desafio_Estacionamento.dll
+C:\Users\pedro\Documents\Programação\FullStack - DIO\.NET\Desafio_Estacionamento\bin\Debug\net8.0\Desafio_Estacionamento.pdb
+C:\Users\pedro\Documents\Programação\FullStack - DIO\.NET\Desafio_Estacionamento\obj\Debug\net8.0\Desafio_Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Documents\Programação\FullStack - DIO\.NET\Desafio_Estacionamento\obj\Debug\net8.0\Desafio_Estacionamento.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\Programação\FullStack - DIO\.NET\Desafio_Estacionamento\obj\Debug\net8.0\Desafio_Estacionamento.AssemblyInfo.cs
+C:\Users\pedro\Documents\Programação\FullStack - DIO\.NET\Desafio_Estacionamento\obj\Debug\net8.0\Desafio_Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Programação\FullStack - DIO\.NET\Desafio_Estacionamento\obj\Debug\net8.0\Desafio_Estacionamento.dll
+C:\Users\pedro\Documents\Programação\FullStack - DIO\.NET\Desafio_Estacionamento\obj\Debug\net8.0\refint\Desafio_Estacionamento.dll
+C:\Users\pedro\Documents\Programação\FullStack - DIO\.NET\Desafio_Estacionamento\obj\Debug\net8.0\Desafio_Estacionamento.pdb
+C:\Users\pedro\Documents\Programação\FullStack - DIO\.NET\Desafio_Estacionamento\obj\Debug\net8.0\Desafio_Estacionamento.genruntimeconfig.cache
+C:\Users\pedro\Documents\Programação\FullStack - DIO\.NET\Desafio_Estacionamento\obj\Debug\net8.0\ref\Desafio_Estacionamento.dll
