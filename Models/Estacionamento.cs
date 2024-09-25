@@ -42,7 +42,7 @@ namespace Desafio_Estacionamento.Models
         }
 
 
-        public void ListarCarros()
+        public void ListarVeiculos()
         {
             if (veiculos.Count != 0)
             {

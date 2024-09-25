@@ -38,7 +38,7 @@ while (exibirMenu)
             break;
 
         case "3":
-            es.ListarCarros();
+            es.ListarVeiculos();
             Console.WriteLine();
             break;
 
